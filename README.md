@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-<!--
-**bigapple76084749/bigapple76084749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me
+I'm a self-taught passionate Security Researcher at Google
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![image](https://github.com/bigapple76084749/bigapple76084749/assets/142060799/a75ff6e6-a405-459a-a721-a6fa3732b16d)
+📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
+
+❤️ I love writing TypeScript, and building fun experiments on type-level
+
+💬 Ask me about anything here
+- 📫 How to reach me: donnotphish@google.com
+- 😄
+- ⚡ Fun fact: Security Research
+
+![image](https://github.com/bigapple76084749/bigapple76084749/assets/142060799/7a5f3d59-e05d-4f50-bafc-58f063d0666e)
+
